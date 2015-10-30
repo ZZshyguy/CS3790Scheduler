@@ -1,0 +1,12 @@
+CS3790
+Zachary Lapointe
+Assignment 2
+Scheduler for forked processes
+
+To compile type:
+make
+
+To run type:
+./Scheduler
+
+Type any string while running and hit enter and it will fork a new writer process to print what you inputted 3 times, it then cycles through the different inputs with a max of 10 at a time. String max length is 80.
